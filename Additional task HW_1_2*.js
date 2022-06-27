@@ -1,3 +1,6 @@
+let age_2 = 18
+let age_3 = 60
+
 const checkAge = function(age){
     age = Number(age)
 if (!isNaN(age)){
